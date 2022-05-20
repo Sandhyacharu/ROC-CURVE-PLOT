@@ -27,7 +27,7 @@ Uses of ROC Curve :
 5.Model Diagnostics
 
 ## Program:
-Program to plot Receiver Operating Characteristic [ROC] Curve.
+### Program to plot Receiver Operating Characteristic [ROC] Curve.
 ### Developed by : N Sandhya Charu
 ### RegisterNumber : 212220230041
 ```python3
@@ -71,6 +71,7 @@ plt.show()
 ```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235167/169460171-e8330fac-942d-4502-bc17-c360c16a697b.png)
+
 ![image](https://user-images.githubusercontent.com/75235167/169460217-a53e9ea6-a912-409a-86d4-cffe1efe30f0.png)
 
 ## Result:
