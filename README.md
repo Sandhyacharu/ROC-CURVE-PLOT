@@ -16,15 +16,15 @@ Uses of ROC Curve :
 - On the other hand, if our classifier is predicting whether someone has a terminal illness, we might be ok with a higher number of false positives (incorrectly diagnosing the illness), just to make sure that we don’t miss any true positives (people who actually have the illness).
 
 ## Algorithm:
-Import Necessary Packages
+1.Import Necessary Packages
 
-Load the Data
+2.Load the Data
 
-Create Training and Test Samples
+3.Create Training and Test Samples
 
-Fit the Logistic Regression Model
+4.Fit the Logistic Regression Model
 
-Model Diagnostics
+5.Model Diagnostics
 
 ## Program:
 Program to plot Receiver Operating Characteristic [ROC] Curve.
