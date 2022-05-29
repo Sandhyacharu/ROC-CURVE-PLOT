@@ -27,10 +27,12 @@ Uses of ROC Curve :
 5.Model Diagnostics
 
 ## Program:
-### Program to plot Receiver Operating Characteristic [ROC] Curve.
-### Developed by : N Sandhya Charu
-### RegisterNumber : 212220230041
 ```python3
+
+# Program to plot Receiver Operating Characteristic [ROC] Curve.
+# Developed by : N Sandhya Charu
+# RegisterNumber : 212220230041
+
 import pandas as pd
 import numpy as np
 from sklearn import metrics 
@@ -69,6 +71,9 @@ plt.xlabel("False Positive Rate")
 plt.legend(loc=4)
 plt.show()
 ```
+<br>
+<br>
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235167/169460171-e8330fac-942d-4502-bc17-c360c16a697b.png)
 
