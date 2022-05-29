@@ -71,10 +71,6 @@ plt.xlabel("False Positive Rate")
 plt.legend(loc=4)
 plt.show()
 ```
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235167/169460171-e8330fac-942d-4502-bc17-c360c16a697b.png)
